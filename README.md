@@ -1,6 +1,6 @@
 # Using a denoising autoencoder for localization - Denoising cellular-based wireless localization data
 Hello and welcome!\
-This repository contains the code and scripts made for our bachelor thesis work for the course IA150X at KTH.\
+This repository contains the code and scripts made for Edvard Von Pfaler and Alexander Danielsson's bachelor thesis work for the course IA150X at KTH.\
 The bachelor thesis evaluted how different parameters affected the performance of using a denoising
 autoencoder (DAE) to remove noise in positioning data.
 
